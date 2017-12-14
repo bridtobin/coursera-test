@@ -40,14 +40,9 @@ body {
 
 #nav-list li {
   border: 1px solid black;
-  text-align: center;
   font-size: 1.2em;
   font-weight: bold;
 } 
-
-#main-content {
-  /*height: 1000px;*/
-}
 
 
 .section-header {
